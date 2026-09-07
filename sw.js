@@ -1,4 +1,4 @@
-const CACHE_NAME = 'spp-jknps-cache-v2';
+const CACHE_NAME = 'spp-jknps-cache-v3';
 const urlsToCache = [
   './',
   './index.html',
